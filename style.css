@@ -1,0 +1,26 @@
+.header {
+	height:100px;
+	width:100%;
+	background-color:pink;
+}
+.side {
+	height:800px;
+	width:20%;
+	background-color:blue;
+	float:left;
+}
+.main_wrapper{
+	height:800px;
+	width:100%;
+}
+.main {
+	height:800px;
+	width:80%;
+	background-color:green;
+	float:right;
+}
+.footer{
+	height:100px;
+	width: 100%;
+	background-color:purple;
+}
