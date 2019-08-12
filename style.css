@@ -19,6 +19,12 @@
 	background-color:green;
 	float:right;
 }
+.one,.two,.three {
+	height:100%;
+	width:33%;
+	background-color:green;
+	float:left;
+}
 .footer{
 	height:100px;
 	width: 100%;
